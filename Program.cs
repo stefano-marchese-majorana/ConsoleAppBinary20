@@ -7,6 +7,7 @@ namespace ConsoleAppBinary20
         static void Main(string[] args)
         {
             // visualizzazione dei messaggi di inzio programma
+            Console.WriteLine("Stefano Marchese");
 
             // input del scelta da parte dell'utente
 
